@@ -23,11 +23,11 @@
       </p>
     </td>
 
-```
+
 <td valign="top" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animation programmation">
 </td>
-```
+
 
   </tr>
 </table>
