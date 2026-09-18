@@ -211,7 +211,7 @@ L'application utilise une base de données MariaDB et une connexion JDBC.
 
 <h3>📫 Me retrouver</h3>
 
-<a href="https://github.com/TON_PSEUDO">
+<a href="https://github.com/JorisPergaix">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
