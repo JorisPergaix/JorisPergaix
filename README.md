@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Bonjour, moi c'est Joris !
 
-<!--
-**JorisPergaix/JorisPergaix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeur d'applications en formation  
+🎓 Bachelor Développeur Web / Concepteur Développeur d'Applications
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis actuellement en formation dans le domaine du développement informatique.
+Je m'intéresse particulièrement au développement web et logiciel ainsi qu'à la conception d'applications.
+
+## 🛠️ Technologies
+
+- HTML / CSS
+- PHP
+- Java
+- JavaScript
+- MySQL / SQL
+- Laravel
+- Git / GitHub
+- Docker
+
+## 📂 Projets
+
+### 🚗 Car'Crash
+Site d'annonces de vente de voitures accidentées réalisé dans le cadre de mon Bachelor.
+
+**Technologies :** PHP 8, MySQL, HTML/CSS, JavaScript, MVC
+
+### 🤖 Concours Robots
+Application web permettant la gestion d'un concours de robots pour des collégiens.
+
+**Technologies :** Laravel, PHP, MariaDB, HTML/CSS
+
+### 🏛️ Astérix
+Application Java permettant la gestion de personnages, divinités et utilisateurs.
+
+**Technologies :** Java, Swing, MariaDB, JDBC 
