@@ -79,11 +79,7 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </p>
 
-```
-</td>
 
-<td valign="top" width="50%">
-```
 
 <h4>🗄️ Bases de données</h4>
 
@@ -102,10 +98,6 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg">
 </p>
-
-```
-</td>
-```
 
   </tr>
 </table>
