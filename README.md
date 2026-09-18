@@ -45,7 +45,6 @@
 * 🎮 Passionné de jeux vidéo pendant mon temps libre
 
 ---
-
 <details open>
 <summary>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
@@ -88,7 +87,7 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
 </p>
 
-<h4>🛠️ Outils</h4>
+<h4>🛠️ Outils & Environnement</h4>
 
 <p>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
