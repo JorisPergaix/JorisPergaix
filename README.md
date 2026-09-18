@@ -1,37 +1,93 @@
-# 👋 Bonjour, moi c'est Joris !
+👋 Salut, moi c'est Joris !
+<div align="center">
+💻 Développeur Full-Stack en devenir | Passionné par la création d'applications innovantes
+Typing SVG
 
-💻 Développeur d'applications en formation  
-🎓 Bachelor Développeur Web / Concepteur Développeur d'Applications
+</div>
+🎯 À propos
+JavaScript
 
-## 🚀 À propos de moi
+const joris = {
+    status: "En formation 📚",
+    diplômes: ["Bachelor Développeur Web", "Concepteur Développeur d'Applications"],
+    passions: ["Clean Code", "Architecture Logicielle", "Nouvelles Technologies"],
+    currentFocus: "Développement Full-Stack & DevOps",
+    funFact: "Je débug avec du café ☕ et de la musique 🎵"
+};
+🚀 Stack Technique
+<div align="center">
+💎 Langages
+PHP
+JavaScript
+Java
+HTML5
+CSS3
+SQL
 
-Je suis actuellement en formation dans le domaine du développement informatique.
-Je m'intéresse particulièrement au développement web et logiciel ainsi qu'à la conception d'applications.
+🛠️ Frameworks & Outils
+Laravel
+Git
+Docker
+MySQL
+MariaDB
 
-## 🛠️ Technologies
+</div>
+🎨 Projets Phares
+<details open> <summary><b>🚗 Car'Crash - Marketplace de véhicules accidentés</b></summary> <br>
+Plateforme web dédiée à la mise en relation d'acheteurs et vendeurs de voitures accidentées
 
-- HTML / CSS
-- PHP
-- Java
-- JavaScript
-- MySQL / SQL
-- Laravel
-- Git / GitHub
-- Docker
+🔧 Stack : PHP 8 • MySQL • Architecture MVC • JavaScript Vanilla
 
-## 📂 Projets
+✨ Points forts :
 
-### 🚗 Car'Crash
-Site d'annonces de vente de voitures accidentées réalisé dans le cadre de mon Bachelor.
+Architecture MVC robuste et scalable
+Système d'authentification sécurisé
+Interface utilisateur responsive
+Gestion complète des annonces (CRUD)
+</details><details> <summary><b>🤖 Concours Robots - Plateforme de gestion</b></summary> <br>
+Application web pour organiser et gérer un concours de robotique destiné aux collégiens
 
-**Technologies :** PHP 8, MySQL, HTML/CSS, JavaScript, MVC
+🔧 Stack : Laravel • MariaDB • Blade • TailwindCSS
 
-### 🤖 Concours Robots
-Application web permettant la gestion d'un concours de robots pour des collégiens.
+✨ Points forts :
 
-**Technologies :** Laravel, PHP, MariaDB, HTML/CSS
+Panel d'administration complet
+Système d'inscription et de gestion des équipes
+Suivi en temps réel des compétitions
+Export des résultats
+</details><details> <summary><b>🏛️ Astérix - Application de gestion</b></summary> <br>
+Application desktop Java pour la gestion de personnages et divinités
 
-### 🏛️ Astérix
-Application Java permettant la gestion de personnages, divinités et utilisateurs.
+🔧 Stack : Java • Swing • MariaDB • JDBC
 
-**Technologies :** Java, Swing, MariaDB, JDBC 
+✨ Points forts :
+
+Interface graphique intuitive avec Swing
+Connexion base de données via JDBC
+Architecture en couches (DAO Pattern)
+Gestion des relations entre entités
+</details>
+📊 GitHub Stats
+<div align="center">
+GitHub Stats
+
+Top Langs
+
+</div>
+🌱 Actuellement en apprentissage
+🔥 Approfondissement de Laravel & Symfony
+🐳 DevOps avec Docker & CI/CD
+⚛️ Frameworks JavaScript modernes (Vue.js, React)
+🏗️ Design Patterns & Architecture logicielle
+📫 Me contacter
+<div align="center">
+LinkedIn
+GitHub
+Email
+
+</div>
+<div align="center">
+💡 "Le code est comme l'humour. Quand tu dois l'expliquer, c'est mauvais." – Cory House
+Profile Views
+
+</div>
