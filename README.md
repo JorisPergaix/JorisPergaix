@@ -23,7 +23,6 @@
       </p>
     </td>
 
-
 <td valign="top" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animation programmation">
 </td>
@@ -80,6 +79,10 @@
 </p>
 
 
+</td>
+
+<td valign="top" width="50%">
+
 
 <h4>🗄️ Bases de données</h4>
 
@@ -98,6 +101,9 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg">
 </p>
+
+</td>
+
 
   </tr>
 </table>
