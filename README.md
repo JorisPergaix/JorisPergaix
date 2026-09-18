@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, moi c'est Joris Pergaix</h1>
 
 <p align="center">
-  <a href="https://github.com/TON_PSEUDO">
+  <a href="https://github.com/JorisPergaix">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Développeur+d'applications;Développeur+Web;PHP+%7C+Java+%7C+MySQL;Toujours+en+apprentissage+%F0%9F%9A%80&center=true&width=500&height=50">
   </a>
 </p>
@@ -22,9 +22,13 @@
         de données.
       </p>
     </td>
-    <td valign="top" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animation programmation">
-    </td>
+
+```
+<td valign="top" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animation programmation">
+</td>
+```
+
   </tr>
 </table>
 
@@ -45,6 +49,7 @@
 * 🎮 Passionné de jeux vidéo pendant mon temps libre
 
 ---
+
 <details open>
 <summary>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
@@ -117,36 +122,70 @@
 
 <br>
 
-### 🚗 Car'Crash
+<h3>🚗 Car'Crash</h3>
 
-Projet réalisé dans le cadre de mon Bachelor.
+<p>
+  Projet réalisé dans le cadre de mon Bachelor.
+</p>
 
-Car'Crash est un site d'annonces de vente de voitures accidentées. Le concept est volontairement décalé : les dégâts des véhicules ne sont pas forcément visibles au premier regard.
+<p>
+  Car'Crash est un site d'annonces de vente de voitures accidentées.
+  Le concept est volontairement décalé : les dégâts des véhicules ne sont
+  pas forcément visibles au premier regard.
+</p>
 
-**Technologies :**
-`PHP 8` `MySQL` `HTML/CSS` `JavaScript` `MVC`
+<p>
+  <b>Technologies :</b>
+  <code>PHP 8</code>
+  <code>MySQL</code>
+  <code>HTML/CSS</code>
+  <code>JavaScript</code>
+  <code>MVC</code>
+</p>
 
 ---
 
-### 🤖 Concours Robots
+<h3>🤖 Concours Robots</h3>
 
-Application Web réalisée pour la gestion d'un concours de robots destiné à des élèves de troisième.
+<p>
+  Application Web réalisée pour la gestion d'un concours de robots destiné
+  à des élèves de troisième.
+</p>
 
-Le projet permet notamment de gérer les élèves, les utilisateurs et les différents rôles.
+<p>
+  Le projet permet notamment de gérer les élèves, les utilisateurs et
+  les différents rôles.
+</p>
 
-**Technologies :**
-`Laravel` `PHP` `MariaDB` `MVC` `HTML/CSS`
+<p>
+  <b>Technologies :</b>
+  <code>Laravel</code>
+  <code>PHP</code>
+  <code>MariaDB</code>
+  <code>MVC</code>
+  <code>HTML/CSS</code>
+</p>
 
 ---
 
-### 🏛️ Astérix
+<h3>🏛️ Astérix</h3>
 
-Application Java permettant la gestion de personnages, de divinités et d'utilisateurs.
+<p>
+  Application Java permettant la gestion de personnages, de divinités
+  et d'utilisateurs.
+</p>
 
-L'application utilise une base de données MariaDB et une connexion JDBC.
+<p>
+  L'application utilise une base de données MariaDB et une connexion JDBC.
+</p>
 
-**Technologies :**
-`Java` `Swing` `MariaDB` `JDBC`
+<p>
+  <b>Technologies :</b>
+  <code>Java</code>
+  <code>Swing</code>
+  <code>MariaDB</code>
+  <code>JDBC</code>
+</p>
 
 </details>
 
@@ -182,12 +221,12 @@ L'application utilise une base de données MariaDB et une connexion JDBC.
 
 <div align="center">
 
-  <a href="https://github.com/TON_PSEUDO">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=TON_PSEUDO&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/JorisPergaix">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=JorisPergaix&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true">
   </a>
 
-  <a href="https://github.com/TON_PSEUDO">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&hide_border=true&theme=dark&langs_count=8"/>
+  <a href="https://github.com/JorisPergaix">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JorisPergaix&layout=compact&hide_border=true&theme=dark&langs_count=8">
   </a>
 
 </div>
@@ -196,8 +235,8 @@ L'application utilise une base de données MariaDB et une connexion JDBC.
 
 <div align="center">
 
-  <a href="https://github.com/TON_PSEUDO">
-    <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=TON_PSEUDO&theme=dark&hide_border=true"/>
+  <a href="https://github.com/JorisPergaix">
+    <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=JorisPergaix&theme=dark&hide_border=true">
   </a>
 
 </div>
@@ -211,7 +250,7 @@ L'application utilise une base de données MariaDB et une connexion JDBC.
 <h3>📫 Me retrouver</h3>
 
 <a href="https://github.com/JorisPergaix">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </div>
@@ -220,7 +259,7 @@ L'application utilise une base de données MariaDB et une connexion JDBC.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=TON_PSEUDO&label=Vues%20du%20profil&style=for-the-badge" alt="Vues du profil"/>
+<img src="https://komarev.com/ghpvc/?username=JorisPergaix&label=Vues%20du%20profil&style=for-the-badge" alt="Vues du profil">
 
 </div>
 
